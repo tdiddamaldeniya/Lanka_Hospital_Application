@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --detectOpenHandles --forceExit"
-   
+    "start":"node app.js"
   },
   "engines": {
     "node": "6.9.1"
